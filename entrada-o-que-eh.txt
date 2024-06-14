@@ -1,0 +1,18 @@
+111 //codigo video
+Filme 1 //titulo
+2024 //ano
+FIC //categoria
+1080 //qualidade
+-1
+222 //codigo musica
+Musica 1 //titulo
+2023 //ano
+ROM //categoria
+148.5 //duracao
+-1
+222 //codigo da midia
+ROM //categoria da midia
+1080 //qualidade do video
+111 //codigo da midia
+
+
